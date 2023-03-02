@@ -3,7 +3,7 @@
 ## stylguide for our big group project 
 
 > Team working efforts 
-- all members can make their own 
+- all members can make their own branches and work on different pages 
 
 
 > Danielle: 
